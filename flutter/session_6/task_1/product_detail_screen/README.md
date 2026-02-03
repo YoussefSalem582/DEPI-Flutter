@@ -4,7 +4,7 @@ A Flutter product detail screen implementation showcasing a clean and modern e-c
 
 ## Screenshot
 
-![Product Detail Screen](assets/task_screenshot.png)
+<img src="assets/task_screenshot.png" alt="Product Detail Screen" width="300"/>
 
 ## Features
 
